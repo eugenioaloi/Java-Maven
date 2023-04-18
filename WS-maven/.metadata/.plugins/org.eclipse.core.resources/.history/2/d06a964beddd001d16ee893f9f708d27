@@ -1,0 +1,26 @@
+package src.service;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+import src.connessione.Connesione;
+import src.model.User;
+
+public class UserService {
+	
+	public List<User> getUser(){
+		
+		ArrayList<User> utenti = new ArrayList<>();
+		
+		Connesione c = new Connesione();
+		c.Connetti();
+		
+		return Arrays.asList(new User(1L, "Paperino", "Paolino", "p.paperino@gmail.com"),
+				new User(2L, "Topolina", "Mouse", "t.mouse@gmail.com"),
+				new User(3L, "testNome", "testCognome", "t.test@gmail.com"),
+				new User(4L, "Mario", "Rossi", "m.rossi@gmail.com")
+		);
+	}
+
+}

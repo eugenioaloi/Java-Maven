@@ -1,0 +1,16 @@
+package src.service;
+
+import java.util.List;
+
+import src.connessione.QueryDb;
+import src.model.Utenti;
+
+public class UserService {
+	
+	public List<Utenti> getUser(){
+		
+		List<Utenti> utenti = QueryDb.listaUtentiDB();
+		
+		return utenti;
+	}
+}

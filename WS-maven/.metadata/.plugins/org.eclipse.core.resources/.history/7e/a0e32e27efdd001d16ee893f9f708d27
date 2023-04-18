@@ -1,0 +1,37 @@
+package src.connessione;
+
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
+
+import src.model.User;
+
+public class QueryDb  {
+	
+	public static List<User> listaUtentiDB() {
+		
+		List<User> utenti = new ArrayList<>();
+		
+		String query = "select * from utenti";
+		
+		try {
+			ResultSet rs = Connesione.connettiDb(query);
+			while(rs.next()) {
+				int id = rs.getInt("id");
+				String nome = rs.getString("nome");
+				String cognome = rs.getString("cognome");
+				String email = rs.getString("email");
+				utenti.add(new User(id, nome, cognome, email));
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+		return utenti;
+		
+	}
+	
+}

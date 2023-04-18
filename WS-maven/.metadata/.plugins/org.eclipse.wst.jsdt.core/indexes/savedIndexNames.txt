@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\aloie\Desktop\WS-maven\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2324524824.index
+3343631377.index
+1633850717.index
+2617784125.index
+335511433.index
+3774984460.index
+639178842.index

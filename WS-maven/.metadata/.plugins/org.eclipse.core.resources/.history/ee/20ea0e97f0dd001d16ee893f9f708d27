@@ -1,0 +1,23 @@
+package test;
+
+import java.sql.*;
+
+import src.connessione.Connesione;
+
+public class Main {
+	public static void main(String[] args) {
+		String query = "select * from utenti";
+		
+		try {
+			ResultSet rs = Connesione.connettiDb(query);
+			while(rs.next()) {
+				System.out.println(rs.getString("nome") + ", ");
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		
+	}
+
+}

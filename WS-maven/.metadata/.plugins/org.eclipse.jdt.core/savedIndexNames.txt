@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\aloie\Desktop\WS-maven\.metadata\.plugins\org.eclipse.jdt.core
+951415320.index
+1633850717.index
+3959137331.index
+3850743791.index
+3098268323.index
+1246086642.index
+821860353.index
+1865797976.index

@@ -1,0 +1,44 @@
+package src.connessione;
+
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
+
+import src.model.User;
+
+public class Connesione  {
+	
+	public static List<User> listaUtentiDB() {
+		
+		List<User> utenti = new ArrayList<>();
+		
+		String url = "jdbc:mysql://localhost:3306/provautenti";
+		String user = "root";
+		String psw = "password";
+		String query;
+		
+		Connection con;
+		try {
+			con = DriverManager.getConnection(url,user,psw);
+			Statement st = con.createStatement();
+			
+			query = "select * from utenti";
+			
+			ResultSet rs = st.executeQuery(query);
+			
+			while(rs.next()) {
+				System.out.println(rs.getInt("id")+" ");
+				System.out.println(rs.getString("nome")+" ");
+				System.out.println(rs.getString("cognome")+" ");
+				System.out.println(rs.getString("email")+" ");
+			}
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		return utenti;
+		
+	}
+	
+}

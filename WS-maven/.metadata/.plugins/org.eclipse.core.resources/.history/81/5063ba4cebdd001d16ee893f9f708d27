@@ -1,0 +1,17 @@
+package src.connessione;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class Connesione {
+	
+	String url = "jdbc:mysql://localhost:3306/provautenti";
+	String user = "root";
+	String psw = "password";
+	String query;
+	
+	
+	
+	Connection con = DriverManager.getConnection(url,user,psw);
+
+}

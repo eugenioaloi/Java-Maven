@@ -1,0 +1,33 @@
+package src.connessione;
+
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
+
+import src.model.User;
+
+public class QueryDb  {
+	
+	public static List<User> listaUtentiDB() {
+		
+		List<User> utenti = new ArrayList<>();
+		
+		String query = "select * from utenti";
+		
+		try {
+			ResultSet rs = Connesione.connettiDb(query);
+			while(rs.next()) {
+				
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+		return utenti;
+		
+	}
+	
+}

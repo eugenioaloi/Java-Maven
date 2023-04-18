@@ -1,0 +1,23 @@
+package src.service;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+import src.connessione.QueryDb;
+import src.model.User;
+
+public class UserService {
+	
+	public List<User> getUser(){
+		
+		ArrayList<User> utenti = new ArrayList<>();
+		
+		QueryDb c = new QueryDb();
+		c.Connetti();
+		
+		return utenti;
+		
+	}
+
+}

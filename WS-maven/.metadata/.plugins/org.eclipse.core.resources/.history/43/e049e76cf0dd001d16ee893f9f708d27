@@ -1,0 +1,21 @@
+package test;
+
+import com.mysql.*;
+
+import src.connessione.Connesione;
+
+public class Main {
+	public static void main(String[] args) {
+		String query = "select * from utenti";
+		
+		try {
+			Resultset rs = Connesione.connettiDb(query);
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+		
+	}
+
+}
