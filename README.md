@@ -1,2 +1,1 @@
-# Java-Maven
-Project with Maven
+Repository for the Java Maven WS
