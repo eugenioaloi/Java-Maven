@@ -25,7 +25,7 @@ public class UtentiServlet extends HttpServlet {
 
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 		
-		res.addHeader("Access-Control-Allow-Origin", "http://localhost:8081");
+		//res.addHeader("Access-Control-Allow-Origin", "http://localhost:8081");
 		
 		List<Utenti> users = new ArrayList<>();
 		users = service.getUser();
@@ -40,4 +40,5 @@ public class UtentiServlet extends HttpServlet {
 		pw.close();
 		
 	}
+
 }
