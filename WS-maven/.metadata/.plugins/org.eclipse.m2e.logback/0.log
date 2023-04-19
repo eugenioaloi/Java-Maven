@@ -877,3 +877,62 @@
 2023-04-18 17:09:31,584 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Desktop\WS-maven\java-prima-api\src\main\resources
 2023-04-18 17:09:31,586 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-04-18 17:09:31,586 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Desktop\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:17:25,830 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-19 09:17:30,328 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:17:30,333 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:17:30,346 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:17:30,347 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:30:40,972 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:30:40,973 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:30:40,976 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:30:40,977 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:30:56,925 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:30:56,925 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:30:56,929 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:30:56,929 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:32:47,783 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:32:47,783 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:32:47,785 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:32:47,785 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:33:06,986 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:33:06,986 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:33:06,988 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:33:06,988 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:34:18,661 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:34:18,662 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:34:18,663 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:34:18,663 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:34:34,440 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:34:34,441 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:34:34,444 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:34:34,444 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:35:14,222 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:35:14,223 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:35:14,225 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:35:14,225 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:41:09,337 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-19 09:42:02,645 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:42:02,647 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:42:02,651 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:42:02,651 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:45:40,678 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-19 09:45:43,491 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:45:43,491 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 09:45:43,496 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 09:45:43,497 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 09:50:04,774 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-19 10:07:27,979 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-19 10:16:20,785 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-19 10:19:06,945 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 10:19:06,947 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 10:19:06,952 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 10:19:06,952 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 10:19:24,390 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 10:19:24,390 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 10:19:24,393 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 10:19:24,393 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 10:19:41,028 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 10:19:41,029 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\main\resources
+2023-04-19 10:19:41,030 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 10:19:41,030 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\java-prima-api\src\test\resources
+2023-04-19 10:33:50,216 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

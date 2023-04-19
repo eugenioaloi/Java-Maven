@@ -1,5 +1,7 @@
 INDEX VERSION 1.131
 C:\Users\aloie\Desktop\WS-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3283978121.index
 \prima-servlet\src\main\java
+C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3343631377.index
+\java-prima-api\src\main\java
 C:\Users\aloie\Desktop\WS-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3343631377.index
 \java-prima-api\src\main\java

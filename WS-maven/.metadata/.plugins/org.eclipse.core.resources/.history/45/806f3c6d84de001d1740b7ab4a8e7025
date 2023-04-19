@@ -1,0 +1,10 @@
+package corsPolicy;
+
+import javax.servlet.annotation.WebFilter;
+
+@WebFilter(asyncSupported = true, urlPatterns = {"/*"})
+public class CorsInterceptor {
+
+	private static final String[] allowedOrigins = {"http://localhost:8081"};
+	
+}
