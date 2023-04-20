@@ -16,8 +16,7 @@ import com.google.gson.Gson;
 import src.model.Utenti;
 import src.service.UtentiService;
 
-
-@WebServlet(urlPatterns = {"/utenti"})
+@WebServlet(urlPatterns = {"utenti"})
 public class UtentiServlet extends HttpServlet {
 	
 	private static final long serialVersionUID = 1L;

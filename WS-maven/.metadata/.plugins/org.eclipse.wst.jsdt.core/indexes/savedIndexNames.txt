@@ -1,7 +1,8 @@
 INDEX VERSION 1.4+C:\Users\aloie\Documents\GitHub\Java-Maven\WS-maven\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 4175717701.index
-1633850717.index
-3472009435.index
 2049111790.index
-3571746673.index
 1770324407.index
+3343631377.index
+3571746673.index
+3472009435.index
+1633850717.index
